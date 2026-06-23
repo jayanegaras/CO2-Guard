@@ -20,7 +20,7 @@ const int ledInternal = 2;   // LED Indikator
 
 // --- TIMEZONE (WIB = GMT+7) ---
 const char* ntpServer = "pool.ntp.org";
-const long gmtOffset_sec = 25200; 
+const long gmtOffset_sec = 28800; 
 const int daylightOffset_sec = 0;
 
 // --- VARIABEL KONTROL ---
