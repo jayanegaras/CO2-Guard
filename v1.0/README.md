@@ -23,7 +23,7 @@ _(Tempatkan tangkapan layar visualisasi grafik/diagram lini dari Google Sheets k
 ### 📁 Dokumentasi Tambahan (Google Drive)
 
 Seluruh berkas pendukung termasuk skema sirkuit resolusi tinggi, desain mekanis, dan video demonstrasi cara kerja alat dapat diakses melalui tautan berikut:
-👉 **[Akses Google Drive Proyek CO₂-Guard](https://drive.google.com/drive/folders/1tv328Ez0x0NtixvVz7K_F9ChKPOjlanl?usp=sharing)** _(Silakan ganti tautan ini dengan URL folder Google Drive kamu)_
+👉 **[Akses Google Drive Proyek CO₂-Guard](https://drive.google.com/drive/folders/1tv328Ez0x0NtixvVz7K_F9ChKPOjlanl?usp=sharing)**
 
 ---
 

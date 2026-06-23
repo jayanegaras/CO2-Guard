@@ -79,4 +79,4 @@ Kami sangat terbuka untuk pengembangan lebih lanjut, terutama pada:
 ---
 
 **Maintained by Kelompok Orang Ganteng**  
-_Update terakhir: Mei 2026_
+_Update terakhir: Juni 2026_
